@@ -258,16 +258,12 @@ int main() {
 		&PrintMarker(WithMarker '+'),
 		"67"
 	);*/
-
-	//__________________________________________________
-
 	/*Draw (
 		&gotoxy(With_X 3, With_Y 3),
 		&rectangle(WithWidth 3, WithHeight 5),
 		&PrintMarker(WithMarker '-'),
 		"bb"
-	);
-*/
+	);*/
 	Draw(
 		&gotoxy(With_X 30, With_Y 30),
 		&circle(5),
@@ -287,8 +283,3 @@ int main() {
 		"1c"
 	);
 }
-
-
-
-
-
