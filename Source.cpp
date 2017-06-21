@@ -2,7 +2,7 @@
 #include <math.h>
 #include <algorithm>
 //mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-#define __________________________________________________	 GoodSeparation();
+#define __________________________________________________ GoodSeparation();
 #define WithSide 
 #define WithWidth
 #define WithHeight
