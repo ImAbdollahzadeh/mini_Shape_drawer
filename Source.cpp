@@ -265,7 +265,7 @@ int main() {
 		"bb"
 	);*/
 	Draw(
-		&gotoxy(With_X 30, With_Y 30),
+		&gotoxy(With_X 10, With_Y 10),
 		&circle(5),
 		&PrintMarker(WithMarker 's'),
 		"0b"
