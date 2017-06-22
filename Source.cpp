@@ -268,7 +268,7 @@ int main() {
 		&gotoxy(With_X 30, With_Y 30),
 		&circle(5),
 		&PrintMarker(WithMarker 's'),
-		"05"
+		"0b"
 	);
 	Draw(
 		&gotoxy(With_X 25, With_Y 25),
@@ -280,6 +280,6 @@ int main() {
 		&gotoxy(With_X 22, With_Y 22),
 		&circle(20),
 		&PrintMarker(WithMarker 's'),
-		"1c"
+		"0b"
 	);
 }
